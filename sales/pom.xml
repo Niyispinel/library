@@ -9,11 +9,11 @@
         <version>2.1.6.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.sales.api</groupId>
-    <artifactId>sales</artifactId>
+    <groupId>com.library.api</groupId>
+    <artifactId>library</artifactId>
     <version>1.0</version>
-<!--    <name>sales-api</name>-->
-<!--    <description>sales-inventory-api</description>-->
+<!--    <name>library-api</name>-->
+<!--    <description>library-api</description>-->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -232,7 +232,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
         </plugins>
-        <finalName>MINTYN-sales-api-1.0</finalName>
+        <finalName>Wizer-library-api-1.0</finalName>
     </build>
 
 </project>
